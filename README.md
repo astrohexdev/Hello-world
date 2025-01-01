@@ -5,9 +5,8 @@ This is first github repository
 The "`Hello world`" program is classic starting point for a developer
 
 ## Fun Fact 
-<p align="center"> 
- <br>
-  Even the giant Netflix starts from "`hello world`"
+<p > 
+ <img src="./res/netflix-start.jpg" width="470" height="400"/>
 </p>
-![netflix-start](./res/netflix-start.png)
 
+Even the giant **Netflix** starts from "`Hello world`"

@@ -6,7 +6,8 @@ The "`Hello world`" program is classic starting point for a developer
 
 ## Fun Fact 
 <p align="center"> 
-  ![netflix-start](./res/netflix-start.png) <br>
+ <br>
   Even the giant Netflix starts from "`hello world`"
 </p>
+![netflix-start](./res/netflix-start.png)
 
